@@ -1,2 +1,2 @@
 # omnicrypto
- all-in-one cyrpto library for demostration purpose
+ all-in-one cyrpto library for demonstration purpose

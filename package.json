@@ -1,0 +1,38 @@
+{
+  "name": "omnicrypto",
+  "version": "0.1.0",
+  "description": "all-in-one crypto library for demonstration purpose",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guoyk93/omnicrypto.git"
+  },
+  "keywords": [
+    "crypto",
+    "typescript"
+  ],
+  "author": "Guo Y.K.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guoyk93/omnicrypto/issues"
+  },
+  "homepage": "https://github.com/guoyk93/omnicrypto#readme",
+  "devDependencies": {
+    "@types/crc": "^3.4.0",
+    "@types/mocha": "^7.0.2",
+    "@types/node": "^13.9.3",
+    "mocha": "^7.1.1",
+    "tslint": "^6.1.0",
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "blake3-js": "0.0.5",
+    "blakejs": "^1.1.0",
+    "crc": "^3.8.0",
+    "sha3": "^2.1.2"
+  }
+}
