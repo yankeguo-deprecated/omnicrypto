@@ -25,7 +25,7 @@
     "@types/crc": "^3.4.0",
     "@types/mocha": "^7.0.2",
     "@types/node": "^13.9.3",
-    "mocha": "^7.1.1",
+    "mocha": "^10.2.0",
     "tslint": "^6.1.0",
     "typescript": "^3.8.3"
   },
